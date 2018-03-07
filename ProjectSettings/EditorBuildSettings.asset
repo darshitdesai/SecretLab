@@ -4,4 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SecretLab.unity
+    guid: 4b22cac6e234dfd4393511fc5acec977
+  - enabled: 1
+    path: Assets/Scenes/Temp.unity
+    guid: ae435bae6ae9fc344806af86e37c7ce5
